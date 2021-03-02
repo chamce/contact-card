@@ -1,0 +1,12 @@
+body {
+    background-image: url("../Images/stars.png");
+}
+
+hr {
+    opacity: 100%;
+}
+
+.card {
+    opacity: 75%;
+    border-radius: 15px;
+}
