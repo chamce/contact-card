@@ -10,3 +10,11 @@ hr {
     opacity: 75%;
     border-radius: 15px;
 }
+
+svg:hover path, svg:hover polygon {
+    fill:lightskyblue;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -o-transition: all .5s ease-in-out;
+    transition: all .5s ease-in-out;
+}
